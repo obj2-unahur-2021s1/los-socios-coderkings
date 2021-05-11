@@ -40,6 +40,10 @@ class ClienteTest : DescribeSpec({
     it ("Cliente indiferente, vive en barrio verde") {
       val cliente3 = Cliente(Indifirente, 300, BarrioVerde)
       cliente3.cuantaPropinaDariaSegunMiBarrio(4000).shouldBe(200)
+
+      cliente3.bolsillo -= 150
+
+      cliente3.cuantaPropinaDariaSegunMiBarrio(4000).shouldBe(150)
     }
     it ("Cliente resfriado, vive en LasTorres") {
       val cliente4 = Cliente(Resfiado, 3000, LasTorres)
