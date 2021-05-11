@@ -41,8 +41,8 @@ Se pide implementar la solución a este problema en Kotlin, junto con los tests 
 
 ## Créditos
 
-[Enunciado original](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-objetos-patrones/mozo-la-cuenta) creado por Fernando Dodino y el equipo de Diseño de Sistemas de Información para UTN - FRBA. Transformado a Markdown, reformateado, reorganizado el texto y agregados nuevos requerimientos por Federico Aloi para UNaHur.
-
+[Enunciado original](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/gobjetos-patrones/mozo-la-cuenta) creado por Fernando Dodino y el equipo de Diseño de Sistemas de Información para UTN - FRBA. Transformado a Markdown, reformateado, reorganizado el texto y agregados nuevos requerimientos por Federico Aloi para UNaHur.
+uia-
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
